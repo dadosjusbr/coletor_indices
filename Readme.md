@@ -12,7 +12,7 @@ Mas como comparar essa falta de transparência, analisando e (potencialmente) de
 
 O Índice de Transparência do DadosJusBr é um indicador sintético composto por duas dimensões: Completude e Facilidade. Inicialmente calcularemos dois índices, um para cada uma das dimensões.
 
-Cada dimensão é constituída por subdimensões que agregam um conjunto de aspectos avaliados separadamente. O Índice é representado em uma escala de 0 a 100, em que 0 representa o ente menos transparente e 100, o mais transparente.
+Cada dimensão é constituída por critérios, os quais são aspectos da dimensão avaliados separadamente. Cada dimensão possui um índice específico e cada índice é representado em uma escala de 0 a 100, em que 0 representa o ente menos transparente e 100, o mais transparente.
 
 A coleta dos dados para cálculo do índice é correspondente a um único mês de um determinado órgão. Dessa forma, cada mês possui seu próprio índice, sendo possível acompanhar como se comporta a publicação dos dados no decorrer dos meses.
 
