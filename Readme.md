@@ -16,7 +16,7 @@ Cada dimensão é constituída por subdimensões que agregam um conjunto de aspe
 
 A coleta dos dados para cálculo do índice é correspondente a um único mês de um determinado órgão. Dessa forma, cada mês possui seu próprio índice, sendo possível acompanhar como se comporta a publicação dos dados no decorrer dos meses.
 
-### Critérios de avaliação
+### Dimensões Avaliadas
 
 Completude: aqui serão agrupadas métricas relacionadas a disponibilidade dos dados.
 Facilidade: aqui serão agrupadas métricas relacionadas a facilidade para acessar os dados que estão disponíveis de forma automatizada.
@@ -61,4 +61,3 @@ Facilidade: aqui serão agrupadas métricas relacionadas a facilidade para acess
 índice = (Completude | Facilidade / Somatório dos pontos possíveis) x 100 
 
 [Exemplo do cálculo do índice](https://docs.google.com/spreadsheets/d/1QeemKTNJGZHIiCaTnvCavR-tRYSeji9nBoM9ARvjwgQ/edit#gid=1445671395)
-
